@@ -23,7 +23,7 @@ a {
 
 .header-details {
   position: absolute;
-  top: 8%;
+  top: 7%;
   font-size: 1.3em;
   font-style: 'Open Sans', sans-serif;
 }
@@ -188,7 +188,11 @@ h1 {
 
 .recipeint, .playlist, .attachments, .views {
   padding: 8px;
-  padding-bottom: 18px;
+  padding-bottom: 25px;
+}
+
+.playlist {
+  padding-top: 20px;
 }
 
 h3 {
